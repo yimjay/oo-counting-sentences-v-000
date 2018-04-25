@@ -19,3 +19,4 @@ class String
   end
 end
 
+complex_string = "This, well, is a sentence. This is too!! And so is this, I think? Woo..."
