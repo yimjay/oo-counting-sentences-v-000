@@ -15,8 +15,6 @@ class String
   end
 
   def count_sentences
-    num = self.split(/\W/)
-    if num.include(" ")
-      
+    self.split(/\W/).collect {|x| }
   end
 end
